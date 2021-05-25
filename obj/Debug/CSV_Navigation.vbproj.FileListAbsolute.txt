@@ -1,0 +1,8 @@
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\bin\Debug\CSV_Navigation.dll
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\bin\Debug\CSV_Navigation.pdb
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\bin\Debug\CSV_Navigation.xml
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\obj\Debug\CSV_Navigation.Resources.resources
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\obj\Debug\CSV_Navigation.vbproj.GenerateResource.Cache
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\obj\Debug\CSV_Navigation.dll
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\obj\Debug\CSV_Navigation.xml
+C:\Users\Siael\Projetos\DLL\CSV_Navigation\obj\Debug\CSV_Navigation.pdb

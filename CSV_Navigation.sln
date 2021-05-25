@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSV_Navigation", "CSV_Navigation.vbproj", "{0319ECD4-1B9F-4E7D-B01D-751ED016F915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0319ECD4-1B9F-4E7D-B01D-751ED016F915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0319ECD4-1B9F-4E7D-B01D-751ED016F915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0319ECD4-1B9F-4E7D-B01D-751ED016F915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0319ECD4-1B9F-4E7D-B01D-751ED016F915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
